@@ -1,0 +1,16 @@
+# 로컬 Claude 설정 (개인 경로/권한 포함)
+.claude/
+
+# macOS
+.DS_Store
+
+# 변환 부산물 / 백업
+*.bak
+*.utf8tmp.*
+*.utf8tmp2.*
+
+# 실제 데이터 파일이 실수로 올라가지 않도록
+*.xls
+*.xlsx
+*.csv
+*.tsv
